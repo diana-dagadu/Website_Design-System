@@ -1,0 +1,112 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0 10%;
+}
+
+.container-one {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: whitesmoke;
+}
+
+.container-two {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: white;
+}
+
+.container-three {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: white;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.pacific-blue {
+  background-color: #009dc4;
+  color: #fff;
+}
+
+.army-green {
+  background-color: #4b5320;
+  color: rgb(255, 255, 255);
+}
+
+.tomato {
+  background-color: tomato;
+  color: white;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.chivo {
+  font-family: 'Chivo', sans-serif;
+}
+
+.josefin-slab {
+  font-family: 'Josefin Slab', serif;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.great-vibes {
+  font-family: 'Great Vibes', cursive;
+}
+
+.none {
+  color: white;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Chivo', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 16px;
+  font-family: 'Josefin Slab', serif;
+}
